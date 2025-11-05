@@ -4,7 +4,11 @@ Consider the [Daily Temperatures dataset](https://raw.githubusercontent.com/jbro
 
 # Working of my model
 Dataset loaded and cleaned. Total observations: 3650
+
 Training set size: 2554 samples
+
 Test set size: 1095 samples
+
 RMSE (Root Mean Squared Error) on Test Set: 2.4494 degrees Celsius
+
 <img width="1200" height="600" alt="Autoregressive Model Fit" src="https://github.com/user-attachments/assets/33a8542a-86d8-4f64-94c6-aea55676a1c5" />
