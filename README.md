@@ -2,7 +2,7 @@
 Consider the [Daily Temperatures dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv) from Australia. This is a dataset for a forecasting task. That is, given temperatures up to date (or period) T, design a forecasting (autoregressive) model to predict the temperature on date T+1. You can refer to [link 1](https://www.turing.com/kb/guide-to-autoregressive-models), [link 2](https://otexts.com/fpp2/AR.html) for more information on autoregressive models. Use linear regression as your autoregressive model. Plot the fit of your predictions vs the true values and report the RMSE obtained. A demonstration of the plot is given below.
 <img width="650" height="400" alt="Autoregressive_Demo" src="https://github.com/user-attachments/assets/15e272b9-8961-4b8d-9ce4-89bfbcc45348" />
 
-# Working of my model
+# Autoregressive Model Performance
 Dataset loaded and cleaned. Total observations: 3650
 
 Training set size: 2554 samples
